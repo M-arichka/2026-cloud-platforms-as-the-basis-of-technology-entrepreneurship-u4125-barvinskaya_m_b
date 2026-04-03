@@ -14,5 +14,6 @@ Date of finished:\
 фото\
 Проверила установку Phyton\
 <img width="307" height="45" alt="image" src="https://github.com/user-attachments/assets/cffcde48-bfba-413c-b967-4337880d67f2" />\
-Знакомство с BotFather\
-<img width="492" height="618" alt="image" src="https://github.com/user-attachments/assets/424d2010-a2dc-4d1f-90aa-b121edcac5fb" />
+Знакомство с BotFather и начало создания бота\
+<img width="462" height="364" alt="image" src="https://github.com/user-attachments/assets/ea805fcb-d136-4497-a894-a9b436c4a854" />
+

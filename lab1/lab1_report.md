@@ -21,5 +21,10 @@ Date of finished:\
 - Скопирывала все файлы в локальную папку на VM:
 <img width="1113" height="181" alt="image" src="https://github.com/user-attachments/assets/835d01f2-d8a9-4081-8383-7ae8d2aadf8a" />
 
--  Используя команду ls -lah отобразила что эти файлы хранятся у меня на VM:
+-  Используя команду ls -lah отобразила, что эти файлы хранятся у меня на VM:
 <img width="656" height="152" alt="image" src="https://github.com/user-attachments/assets/50bc519d-3b0c-4533-a7d8-04ace994ee37" />
+
+- Поменяла права доступа для своего service account с Storage Admin на Compute Viewer, попробовала повторить пункт с копированием данных
+<img width="571" height="377" alt="image" src="https://github.com/user-attachments/assets/509dd3b8-1ce3-4c8e-9a95-bbd673d870b8" />
+
+- 
